@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+java_basic.iml
+.idea
+gradlew.bat
+.gradle
+build
+gradle
+
+### Mac OS ###
+.DS_Store
